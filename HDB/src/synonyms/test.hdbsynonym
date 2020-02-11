@@ -1,0 +1,14 @@
+{
+  "HANA_APP.HDB.synonyms::Synonym_0": {
+    "target": {
+      "object": "DUMMY",
+      "schema": "SYS"
+    }
+  },
+  "HANA_APP.HDB.synonyms::Synonym_1": {
+    "target": {
+      "object": "TASKS_",
+      "schema": "SYS"
+    }
+  }
+}
